@@ -21,7 +21,7 @@ Now the root of the application takes you to the Swagger UI
 
 ### New Front End
 
-A new frontend is located here: 
+A new frontend is located here: [Home Calendar React](https://github.com/JavaKoala/home-calendar-react)
 
 ### Ruby 4
 
