@@ -13,7 +13,7 @@ Check out the release notes here: [2.0.0](https://github.com/JavaKoala/home_cale
 
 ### Removed Front End
 
-The application is now API only. The OpenAPI documentation is located here: [swagger.yml](https://github.com/JavaKoala/home_calendar/blob/main/swagger/v1/swagger.yaml)
+The application is now API only. The OpenAPI documentation is located here: [swagger.yaml](https://github.com/JavaKoala/home_calendar/blob/main/swagger/v1/swagger.yaml)
 
 Now the root of the application takes you to the Swagger UI
 
