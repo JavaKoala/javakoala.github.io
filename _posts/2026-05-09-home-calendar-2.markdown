@@ -9,7 +9,7 @@ categories: home calendar
 
 The second major version of `home_calendar` has been released after 6 years of version 1.
 
-Checkout the release notes here: [2.0.0](https://github.com/JavaKoala/home_calendar/releases/tag/2.0.0)
+Check out the release notes here: [2.0.0](https://github.com/JavaKoala/home_calendar/releases/tag/2.0.0)
 
 ### Removed Front End
 
