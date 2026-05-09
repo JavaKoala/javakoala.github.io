@@ -19,6 +19,10 @@ Now the root of the application takes you to the Swagger UI
 
 ![Swagger UI](/assets/images/home-calendar-2-swagger.png)
 
+### New Front End
 
+A new frontend is located here: 
 
 ### Ruby 4
+
+Upgrade to Ruby 4
