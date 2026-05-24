@@ -19,7 +19,7 @@ When using a color input, you can specify options by setting the `list` attribut
 </datalist>
 ```
 
-Then the options will appear with the drop down.
+Then the options will appear with the dropdown.
 
 ![Color options](/assets/images/color-options.png)
 
