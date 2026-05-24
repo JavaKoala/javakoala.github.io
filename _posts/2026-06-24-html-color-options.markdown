@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Color Input Options"
+title:  "HTML Color Options"
 date:   2026-06-24 10:00:00 -0400
 categories: html
 ---
