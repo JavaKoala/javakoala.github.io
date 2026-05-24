@@ -10,7 +10,7 @@ categories: html
 When using a color input, you can specify options by setting the `list` attribute to the id of a `<datalist>` that contains `<option>` tags.
 
 ```html
-<input type="color" datalist="color-list" />
+<input type="color" list="color-list" />
 <datalist id="color-list">
   <option value="#3b82f6"></option>
   <option value="#000000"></option>
